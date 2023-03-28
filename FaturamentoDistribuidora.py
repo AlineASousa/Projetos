@@ -30,3 +30,4 @@ dias_acima_da_media = sum(valor > media_mensal for valor in faturamento_diario)
 print("Menor valor de faturamento diário:", menor_valor)
 print("Maior valor de faturamento diário:", maior_valor)
 print("Número de dias com faturamento acima da média mensal:", dias_acima_da_media)
+ 
