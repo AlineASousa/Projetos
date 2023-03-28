@@ -30,4 +30,4 @@ if (metodoPagamento === 'débito') {
     console.log(precoOriginalProduto + tresParcelas);
 } else {
     alert('Método de pagamento inválido! Tente novamente.');
-  }
+  } 
